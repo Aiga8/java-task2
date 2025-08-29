@@ -8,9 +8,8 @@
 
 ## Результаты
 В результате тестирования выявлены следующие дефекты:  
-- [Bug: American Express 378282246310005 incorrectly recognized as invalid](BUGREPORT1.md)  
-- [Bug: American Express 371449635398431 incorrectly recognized as invalid](BUGREPORT2.md)  
-- [Bug: Diners Club 30569309025904 incorrectly recognized as invalid](BUGREPORT3.md)  
+- [Bug: American Express (15 digits) recognized as invalid](BUGREPORT1.md)  
+- [Bug: Diners Club 30569309025904 incorrectly recognized as invalid](BUGREPORT2.md)  
 
 ---
 

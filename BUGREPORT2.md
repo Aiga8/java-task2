@@ -1,10 +1,10 @@
-**Summary (EN):** [task2] American Express (15 digits) incorrectly recognized as invalid  
+**Summary (EN):** [task2] Diners Club (14 digits) incorrectly recognized as invalid  
 
 **Preconditions:**  
 Открыт проект `task2`.  
 
 **Steps:**  
-1. Ввести номер карты `371449635398431`.  
+1. Ввести номер карты `30569309025904`.  
 2. Запустить программу.  
 
 **Expected result:**  
